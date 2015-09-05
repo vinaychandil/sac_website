@@ -1,0 +1,29 @@
+.box5{
+		display:-webkit-flex;
+  display:-moz-flexbox;
+  display:flex;
+}
+
+#googleMap{
+	display:-webkit-flex;
+  display:-moz-flexbox;
+  display:flex;
+}
+
+.col5{
+		display:-webkit-flex;
+  display:-moz-flexbox;
+  display:flex;
+	flex:1flex:1;
+-webkit-flex:1;
+-moz-flex:1;
+}
+
+.flex5{
+	display:-webkit-flex;
+  display:-moz-flexbox;
+  display:flex;
+   -webkit-flex-direction:column;
+-moz-flex-direction:column;
+flex-direction:column;
+}

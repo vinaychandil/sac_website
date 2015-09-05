@@ -1,0 +1,29 @@
+.container2{
+		display:-webkit-flex;
+  display:-moz-flexbox;
+  display:flex;
+}
+
+.col2{
+		display:-webkit-flex;
+  display:-moz-flexbox;
+  display:flex;
+  -webkit-flex-direction:column;
+-moz-flex-direction:column;
+flex-direction:column;
+flex:3;
+-webkit-flex:3;
+-moz-flex:3;
+}
+
+.col3{
+		display:-webkit-flex;
+  display:-moz-flexbox;
+  display:flex;
+  -webkit-flex-direction:column;
+-moz-flex-direction:column;
+flex-direction:column;
+flex:1;
+-webkit-flex:1;
+-moz-flex:1;
+}

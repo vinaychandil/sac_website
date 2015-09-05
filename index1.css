@@ -1,0 +1,5 @@
+.flex_row{
+	display:-webkit-flex;
+  display:-moz-flexbox;
+  display:flex;
+}
