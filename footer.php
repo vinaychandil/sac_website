@@ -19,7 +19,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 }
 
 </style>
-<link type="text/css" rel="stylesheet" href="footer.css"  />
+<link type="text/css" rel="stylesheet" href="css/footer.css"  />
 
 <hr>
     <div class="box5" style="background-color:#606860;color:black;">
